@@ -1,0 +1,6 @@
+{
+  "name": "EVAC SAVIOUR",
+  "description": "Government-grade emergency response, panic alert, and volunteer coordination system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
